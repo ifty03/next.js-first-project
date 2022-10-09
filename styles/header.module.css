@@ -1,0 +1,11 @@
+.body{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: azure;
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    justify-content: center;
+}
