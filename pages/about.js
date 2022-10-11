@@ -35,6 +35,13 @@ const About = () => {
               autem sequi laudantium quas!
             </p>
           </a>
+          <a
+            href="https://nextjs.org/learn"
+            className={`${styles.card} ${styles.bgb}`}
+          >
+            <h2>Jobs &rarr;</h2>
+            <p>ctrl+space dile intalijence er auto suggestion chole ashe</p>
+          </a>
         </div>
       </main>
     </div>

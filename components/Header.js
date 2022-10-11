@@ -17,7 +17,12 @@ const Header = () => {
       </li>
       <li>
         <Link href="/dynamic">
-          <a>home</a>
+          <a>dynamic</a>
+        </Link>
+      </li>
+      <li>
+        <Link href="/blogs">
+          <a>Blogs</a>
         </Link>
       </li>
     </div>
