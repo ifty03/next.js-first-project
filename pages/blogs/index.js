@@ -12,7 +12,7 @@ const Index = () => {
   }, []);
   return (
     <div>
-      <h3 style={{ textAlign: "center" }}>All Blogs</h3>
+      <h3 style={{ textAlign: "center" }}>All Blogs.</h3>
       <div className={styles.blogCardBody}>
         {blogs?.map((blog) => (
           <BlogCard blog={blog} key={blogs?.id} />
