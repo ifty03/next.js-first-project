@@ -25,6 +25,11 @@ const Header = () => {
           <a>Blogs</a>
         </Link>
       </li>
+      <li>
+        <Link href="/users">
+          <a>Users</a>
+        </Link>
+      </li>
     </div>
   );
 };
